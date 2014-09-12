@@ -16,6 +16,9 @@ class Point
 		cout << "X = " << x << endl;
 		cout << "Y = " << y << endl;
 	}
+
+	cout <<  "Done with the code ahahahah";
+
 };
 
 int main()
